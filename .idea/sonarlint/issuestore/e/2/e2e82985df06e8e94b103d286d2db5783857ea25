@@ -1,0 +1,6 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(ÇÇ€•ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰‡óÝýÿÿÿÿ
+¯
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(’æÒ„
